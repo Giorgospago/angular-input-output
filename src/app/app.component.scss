@@ -1,0 +1,12 @@
+nav {
+  background-color: darkslateblue;
+  color: white;
+
+  a {
+    color: inherit;
+
+    &.active {
+      background-color: darken(darkslateblue, 50);
+    }
+  }
+}

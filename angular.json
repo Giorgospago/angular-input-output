@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "input-output"
+    }
+  },
+  "defaultProject": "input-output",
+  "cli": {
+    "analytics": false
+  }
 }
